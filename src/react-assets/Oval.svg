@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="903px" height="728px" viewBox="0 0 903 728" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval</title>
+    <defs>
+        <linearGradient x1="49.325979%" y1="0%" x2="49.325979%" y2="136.983809%" id="linearGradient-1">
+            <stop stop-color="#B57AD2" stop-opacity="0.776387675" offset="0%"></stop>
+            <stop stop-color="#FFF4E5" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-697.000000, 0.000000)" fill="url(#linearGradient-1)">
+            <g id="02-Header" transform="translate(0.000000, -167.534888)">
+                <g id="Image" transform="translate(670.000000, 0.000000)">
+                    <path d="M414.579587,892.862743 C666.37565,867.253641 874.786753,682.718863 966.106712,447.5 C987.317951,392.864806 985.052828,340.109666 965.969582,291.164981 C902.894444,129.389939 656.085339,9.24319907 465.966085,0.429943258 C218.326665,-11.0497438 27.1619835,209.031009 27.1619835,459.706561 C27.1619835,710.382113 162.783525,918.471845 414.579587,892.862743 Z" id="Oval" transform="translate(504.161983, 447.500000) scale(-1, 1) translate(-504.161983, -447.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

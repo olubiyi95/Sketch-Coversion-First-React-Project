@@ -2,7 +2,7 @@ import React from 'react'
 
 const BranchTesting = () => {
   return (
-    <div>BranchTesting</div>
+    <div>This is a test</div>
   )
 }
 
